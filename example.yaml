@@ -1,0 +1,44 @@
+basics:
+  email: aang@avatar.com
+  name: Aang Avatar
+  phone: 123-4567890
+  title: The Avatar
+skills:
+  - description: Highly proficient
+    name: Air Bending
+  - description: Enthusaist
+    name: Fire Bending
+  - description: Highly experienced
+    name: Water Bending
+  - description: Amateur
+    name: Earth Bending
+work:
+- endDate: Present
+  highlights:
+  - Bending all elements
+  - Work with government
+  name: Republic City
+  position: Avatar
+  startDate: '2022'
+- endDate: '2022'
+  highlights:
+  - Learn to bend fire, water and earth
+  - Travel the world
+  - Defeat Fire-Lord Ozai
+  name: Team Avatar
+  position: Avatar-in-training
+  startDate: '2020'
+- endDate: '2020'
+  name: Air Nomands
+  position: Air Bender
+  startDate: '2018'
+education:
+- area: Air Bending
+  endDate: '2017'
+  institution: Air Nomads Univesity
+  startDate: '2015'
+languages:
+  - fluency: Native Speaker
+    language: Common
+  - fluency: Advanced/Fluent
+    language: Air Bison
